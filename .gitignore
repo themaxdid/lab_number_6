@@ -1,0 +1,10 @@
+/build/
+/out/
+/.vscode/
+/.vs/
+*.exe
+*.out
+*.app
+*.obj
+*.o
+*.log
